@@ -3,6 +3,9 @@
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
+### About Me:
+I am Hezil Adem Yahia, a passionate expert in Cyber Security, Web Development, and Network Architecture. With a strong background in network architecture and cybersecurity, I specialize in designing and implementing secure systems that leverage the latest technologies to protect organizations from digital threats. My experience includes penetration testing, threat detection, and incident response, aimed at ensuring robust cybersecurity frameworks for businesses.
+
 ### Connect with me:
 <a href="LINK_TO_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="LINK_TO_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
