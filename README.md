@@ -31,8 +31,8 @@
 </p>
 
 ## 📊 My Github Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&&show_icons=true&count_private=true&title_color=72A6FD&icon_color=bb2acf&text_color=38BDAD&bg_color=FFFFFF00)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00)
+![](https://github-readme-stats.vercel.app/api?username=ademoo077&&show_icons=true&count_private=true&title_color=72A6FD&icon_color=bb2acf&text_color=38BDAD&bg_color=FFFFFF00)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ademoo077&layout=compact&theme=tokyonight&hide=php&langs_count=8&bg_color=FFFFFF00)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake-dark.svg">
